@@ -67,12 +67,12 @@ const estilos = StyleSheet.create({
         marginLeft: 35
     },  
     imagemContainer: {
-        marginTop:120,
+        marginTop:50,
       },
       imagem: {
         width: 150,
         height: 150,
         marginTop: 270,
-        marginLeft: 110
+        marginLeft: 130
       },
 });

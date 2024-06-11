@@ -10,7 +10,7 @@ const Stack = createNativeStackNavigator();
 export default function App() {
   return (
     <NavigationContainer>
-      <Stack.Navigator initialRouteName="TelaLogin">
+      <Stack.Navigator initialRouteName="TelaAdministrativa">
         <Stack.Screen name="TelaLogin" component={TelaLogin} options={{ headerShown: false }} />
         <Stack.Screen name="TelaCadastro" component={TelaCadastro} options={{ headerShown: false }} />
         <Stack.Screen name="TelaAdministrativa" component={TelaAdministrativa} options={{ headerShown: false }} />

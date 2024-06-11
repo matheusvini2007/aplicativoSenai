@@ -34,7 +34,7 @@ const estilos = StyleSheet.create({
     caixaAdm1:{
         backgroundColor: "#6079FF",
         width: 160,
-        height: 150,
+        height: 120,
         borderRadius: 20,
         marginRight: 40,
         marginLeft: 16,
@@ -43,29 +43,29 @@ const estilos = StyleSheet.create({
     },
     adm11:{
         marginLeft: 12,
-        marginTop: 60,
+        marginTop: 50,
         fontSize: 20,
 
     },  
     caixaAdm2:{
         backgroundColor: "#6079FF",
         width: 160,
-        height: 150,
+        height: 120,
         borderRadius: 20,
         marginRight: 40,
         marginLeft: 170,
-        marginTop: -83
+        marginTop: -75
     },
     adm12:{
-        marginLeft: 50,
+        marginLeft: 45,
         fontSize: 22,
-        marginTop: 59
+        marginTop: 45
     },  
 
     caixaAdm3:{
         backgroundColor: "#6079FF",
         width: 160,
-        height: 150,
+        height: 120,
         borderRadius: 20,
         marginRight: 40,
         marginLeft: 1,
@@ -75,29 +75,29 @@ const estilos = StyleSheet.create({
     adm13:{
         marginLeft: 28,
         fontSize: 22,
-        marginTop: 61
+        marginTop: 45
     },
 
     caixaAdm4:{
         backgroundColor: "#6079FF",
         width: 160,
-        height: 150,
+        height: 120,
         borderRadius: 20,
         marginRight: 40,
         marginLeft: 170,
-        marginTop: -150
+        marginTop: -120
     },
 
     adm14:{
         marginLeft: 30,
         fontSize: 22,
-        marginTop: 59
+        marginTop: 45
     },
 
     caixaAdm5:{
         backgroundColor: "#6079FF",
         width: 160,
-        height: 150,
+        height: 120,
         borderRadius: 20,
         marginRight: 40,
         marginLeft: 1,
@@ -106,24 +106,24 @@ const estilos = StyleSheet.create({
 
     adm15:{
         marginLeft: 30,
-        marginTop: 60,
+        marginTop: 45,
         fontSize: 22,
     },
 
     caixaAdm6:{
         backgroundColor: "#6079FF",
         width: 160,
-        height: 150,
+        height: 120,
         borderRadius: 20,
         marginRight: 40,
         marginLeft: 170,
-        marginTop: -150
+        marginTop: -120
     },
 
     adm16:{
-        marginLeft: 22,
+        marginLeft: 15,
         fontSize: 22,
-        marginTop: 59
+        marginTop: 45
     }
 
 
